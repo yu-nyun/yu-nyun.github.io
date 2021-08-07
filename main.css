@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-size: 18px;
+	line-height: 1.5;
+	color: #333;
+	font-family: Calibri, sans-serif;
+}
+
+h1 {
+	margin:50px 0px 10px 0px;
+	font-size: 60px;
+	text-align: center;
+}
+
+  h2 {
+    margin: 0px 0px 0px 0px;
+	padding: 0px 0px 30px 0px;
+	font-size: 25px;
+	text-align: center;
+    border-bottom: 2px solid #e3e3e3;
+}
+
+main {
+  width: 900px;
+  margin: auto;
+}
+
+section {
+	margin: 50px 0px;
+	padding: 0px 50px;
+}
+
+.h2 {
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	border: none;
+}
+
+li {
+	margin: 0px 0px 10px 0px;
+}
